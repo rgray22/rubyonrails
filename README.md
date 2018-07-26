@@ -1,24 +1,28 @@
+Enterprise Ape
+==============
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+Powerful Software
+-----------------
 
+### Welcome to the repository
 
-Welcome to your Rails project on Cloud9 IDE!
+Feel free to access [my portfolio](http://portfolio.rgray22.com).
+> ## Etiam pulvinar sollicitudin gravida
+>
+> Name nec justo magna. Sed netalis bibendum
+>
+> Donec malesuada aliquam * gravida*.
 
-To get started, just do the following:
+Donec Malesuada aliquam **gravida**.
 
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://HOSTNAME/).
+### Crazy good software
+* rapid development
++ Tested
+- 24/7 supporte
 
-Happy coding!
-The Cloud9 IDE team
+### Reason to choose us
+1. Price
+2. Precision
+3. Performance
 
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+This is what ruby code would look like `puts 'Hello World'`
